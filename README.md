@@ -1,8 +1,9 @@
 ## Isaias Batista 😎 ✌️ 
 
 
- - Recife-PE 🇧🇷 
- - Student Frontend and Python
+ - Recife-PE 🇧🇷
+ - Native Reader 🤓📚
+ - Student Frontend and Python 🧑🏻‍💻
 
 
 
