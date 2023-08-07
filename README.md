@@ -1,9 +1,10 @@
-## Isaias Batista 😎 ✌️ 
+## 
+Who am me:
 
-
- - Recife-PE 🇧🇷
- - Native Reader 🤓📚
- - Student Frontend and Python 🧑🏻‍💻
+- 😎Isaias Batista 
+- 🇧🇷 Recife-PE
+- 🤓📚 Native Reader
+- 🧑🏻‍💻 Student Frontend and Python 
 
 
 
