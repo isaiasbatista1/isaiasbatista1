@@ -3,7 +3,9 @@ Who am me:
 
 - 😎Isaias Batista 
 - 🇧🇷 Recife-PE
-- 🤓📚 Native Reader
+- 🤓📚 Native Reader. Link for my Skoob: https://www.skoob.com.br/usuario/8899899
+
+
 - 🧑🏻‍💻 Student Frontend and Python 
 
 
